@@ -1,0 +1,1 @@
+alert("AMAN MONEY IS MOTIVE ")
